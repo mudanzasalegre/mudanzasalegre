@@ -13,12 +13,10 @@ Welcome to my GitHub profile! Here's a bit about me:
 - Advanced SQL techniques
 - Java Spring
 - Full-stack web development with JavaScript (React.js, Node.js)
+- Python
 
 ## 💞️ I’m looking to collaborate on ...
-- Open source projects related to web development
-- Data analysis and visualization projects
-- Building robust and scalable backend systems
-- Any fun and innovative tech projects
+- Spring projects
 
 ## 📫 How to reach me ...
 - You know!
